@@ -1,0 +1,24 @@
+{
+  "name": "npm-dynamic-number-picker",
+  "version": "1.0.0",
+  "description": "editable number picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valokolaee/npm-dynamic-number-picker.git"
+  },
+  "keywords": [
+    "picker",
+    "datepicker",
+    "numberPicker"
+  ],
+  "author": "mehdi valokolaee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valokolaee/npm-dynamic-number-picker/issues"
+  },
+  "homepage": "https://github.com/valokolaee/npm-dynamic-number-picker#readme"
+}
